@@ -288,6 +288,7 @@ scientific-calculator-gui/
 ├── GUI_Calc.py              # Main calculator script (500 lines)
 ├── README.md                # This file
 ├── LICENSE                  # MIT License
+├── .gitignore
 │
 └── docs/
     └── images/
