@@ -68,13 +68,13 @@ Output: 10.0
 
 **🖥️ Main Interface**:
 
-![Calculator Main Interface](docs/images/calculator_main.png)
+![Sample Input](docs/images/calculator_main.png)
 
 *Dark-themed interface with organized button layout*
 
 **🧮 Calculation Example**:
 
-![Calculation Example](docs/images/calculator_example.png)
+![Sample Input](docs/images/calculator_example.gif)
 
 *Real-time expression evaluation with error handling*
 
@@ -428,8 +428,6 @@ Copyright (c) 2025 **Seohyun Park**
 University of Waterloo, Bachelor of Computer Science (Year 1) | [Korea Presidential Science Scholar](https://en.namu.wiki/w/%EB%8C%80%ED%86%B5%EB%A0%B9%EA%B3%BC%ED%95%99%EC%9E%A5%ED%95%99%EA%B8%88#s-3.2)
 
 📧 spbraden2007@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/sp-park) | 🌐 [GitHub](https://github.com/spbraden2007-ux)
-
-*Built to explore GUI programming, event-driven architecture, and Python's Tkinter framework. Check out my other projects: [Olympic Metaverse](#), [ASCII Art Converter](#)*
 
 ---
 
