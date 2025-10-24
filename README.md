@@ -293,7 +293,7 @@ scientific-calculator-gui/
 └── docs/
     └── images/
         ├── calculator_main.png
-        └── calculator_example.png
+        └── calculator_example.gif
 ```
 
 **Single-file design**: Entire application in one Python file for portability and easy distribution.
