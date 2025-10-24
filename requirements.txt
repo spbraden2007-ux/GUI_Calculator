@@ -1,0 +1,22 @@
+# Scientific Calculator GUI - Requirements
+# ========================================
+# No external dependencies required.
+# This project uses only Python standard library modules.
+
+# Required modules (all built-in):
+# - tkinter: GUI framework
+# - tkinter.messagebox: Error dialogs
+# - math: Mathematical functions (sin, cos, log, etc.)
+
+# Python version requirement:
+# Python >= 3.9
+
+# Installation:
+# No pip install needed! Just run:
+#   python GUI_Calc.py
+
+# Note: tkinter is included with Python on most systems.
+# If tkinter is missing (rare), install via:
+#   - Ubuntu/Debian: sudo apt-get install python3-tk
+#   - macOS: Included with Python.org installer
+#   - Windows: Included with standard Python installation
