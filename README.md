@@ -16,8 +16,8 @@ A clean, responsive desktop calculator built with event-driven architecture and 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/scientific-calculator-gui.git
-cd scientific-calculator-gui
+git clone https://github.com/spbraden2007-ux/GUI_Scientific_Calculator.git
+cd GUI_Scientific_Calculator
 
 # No additional dependencies needed - uses built-in Tkinter!
 ```
